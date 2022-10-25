@@ -1,49 +1,50 @@
 [
     {
-      "catagory": "Branding",
+      "":"1",
       "img": "https://i.ibb.co/J20TRXS/Screenshot-25323423.jpg",
-      "courseTitale": "Branding & Marketing for Startups: Learn How To Stand Out",
-      "about-course": "Branding & Marketing Insights: Learn Top Brand Design Strategies To Build Physical Product Brand & Grow Your Business.",
+      "title": "Branding & Marketing for Startups: Learn How To Stand Out",
+      "details": "Branding & Marketing Insights: Learn Top Brand Design Strategies To Build Physical Product Brand & Grow Your Business.",
       "price": "40"
     },
 
     {
-      "catagory": "Email-Marketing",
+      "":"2",
       "img": "https://i.ibb.co/Lx7XSxx/Screenshot-2.jpg",
-      "courseTitale": "Email Marketing - Copywriting and Growing Your E-mail Lists",
-      "about-course": "Write Effective Sales Copy and use my proven TEMPLATES to grow your business Instantly.",
+      "title": "Email Marketing - Copywriting and Growing Your E-mail Lists",
+      "details": "Write Effective Sales Copy and use my proven TEMPLATES to grow your business Instantly.",
       "price": "55"
     },
 
     {
-      "catagory": "WordPress",
+      "":"3",
       "img": "https://i.ibb.co/5sZwhQz/Screenshot-253.jpg",
-      "courseTitale": "WordPress: Create Stunning Wordpress Websites for Business",
-      "about-course": "Create a Professional Wordpress Websites For Business or Personal Use. SEO, Wordpress development, website design.",
+      "title": "WordPress: Create Stunning Wordpress Websites for Business",
+      "details": "Create a Professional Wordpress Websites For Business or Personal Use. SEO, Wordpress development, website design.",
       "price": "89"
     },
 
     {
-      "catagory": "Photography",
+      "":"4",
       "img": "https://i.ibb.co/23PmsDn/Screenshot-4.jpg",
-      "courseTitale": "Photography for Kids: Project-Based Beginner Photography",
-      "about-course": "12 weeks of adventure projects make this the perfect course for kids and beginners to learn how to use a camera properly",
+      "title": "Photography for Kids: Project-Based Beginner Photography",
+      "details": "12 weeks of adventure projects make this the perfect course for kids and beginners to learn how to use a camera properly",
       "price": "39"
     },
 
     {
-      "catagory": "JavaScript",
+      "":"5",
       "img": "https://i.ibb.co/WKRSq99/Screenshot-2533.jpg",
-      "courseTitale": "The Complete JavaScript Course 2022: From Zero to Expert!",
-      "about-course": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+      "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+      "details": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
       "price": "55"
     },
 
     {
-      "catagory": 1,
+      "":"6",
+      "catagory": "Web Development",
       "img": "https://i.ibb.co/swY0LXt/Screenshot-253234.jpg",
-      "courseTitale": "The Ultimate 2022 Fullstack Web Development Bootcamp",
-      "about-course": "Become a fullstack web developer (and get a job) by taking this ONE course, even if you've never coded before.",
+      "title": "The Ultimate 2022 Fullstack Web Development Bootcamp",
+      "details": "Become a fullstack web developer (and get a job) by taking this ONE course, even if you've never coded before.",
       "price": "99"
     }
 

@@ -5,6 +5,14 @@ cors = require('cors');
 app.use(cors())
 
 
+const course = require('./Data/Course.json');
+
+
+app.get('/course',(req,res)=>{
+    res.send(course)
+})
+
+
 app.get('/', (req, res) => {
     res.send('Hello World!')
   })

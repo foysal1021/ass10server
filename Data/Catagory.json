@@ -1,0 +1,30 @@
+[
+    {
+        "catagory": "Branding",
+        "id":"1"
+    },
+    {
+        "catagory": "Email-Marketing",
+        "id":"2"
+    },
+    {
+        "catagory": "WordPress",
+        "id":"3"
+    },
+    {
+        "catagory": "Photography",
+        "id":"4"
+    },
+    {
+        "catagory": "JavaScript",
+        "id":"5"
+    },
+    {
+        "catagory": "Web Development",
+        "id":"6"
+    },
+    {
+        "catagory": "All Course",
+        "id":"7"
+    }
+]
