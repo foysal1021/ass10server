@@ -8,8 +8,15 @@ app.use(cors())
 const course = require('./Data/Course.json');
 
 
+
 app.get('/course',(req,res)=>{
     res.send(course)
+})
+
+app.get('/course/:id',(req,res)=>{
+  const id = req.params.id;
+  const CourseID = course.find( Cid => Cid.id === id);
+  res.send(CourseID)
 })
 
 

@@ -1,6 +1,7 @@
 [
     {
-      "":"1",
+      "id":"1",
+      "catagory": "Branding",
       "img": "https://i.ibb.co/J20TRXS/Screenshot-25323423.jpg",
       "title": "Branding & Marketing for Startups: Learn How To Stand Out",
       "details": "Branding & Marketing Insights: Learn Top Brand Design Strategies To Build Physical Product Brand & Grow Your Business.",
@@ -8,7 +9,8 @@
     },
 
     {
-      "":"2",
+      "id":"2",
+      "catagory": "Email-Marketing",
       "img": "https://i.ibb.co/Lx7XSxx/Screenshot-2.jpg",
       "title": "Email Marketing - Copywriting and Growing Your E-mail Lists",
       "details": "Write Effective Sales Copy and use my proven TEMPLATES to grow your business Instantly.",
@@ -16,7 +18,8 @@
     },
 
     {
-      "":"3",
+      "id":"3",
+      "catagory": "WordPress",
       "img": "https://i.ibb.co/5sZwhQz/Screenshot-253.jpg",
       "title": "WordPress: Create Stunning Wordpress Websites for Business",
       "details": "Create a Professional Wordpress Websites For Business or Personal Use. SEO, Wordpress development, website design.",
@@ -24,7 +27,8 @@
     },
 
     {
-      "":"4",
+      "id":"4",
+      "catagory": "Photography",
       "img": "https://i.ibb.co/23PmsDn/Screenshot-4.jpg",
       "title": "Photography for Kids: Project-Based Beginner Photography",
       "details": "12 weeks of adventure projects make this the perfect course for kids and beginners to learn how to use a camera properly",
@@ -32,7 +36,8 @@
     },
 
     {
-      "":"5",
+      "id":"5",
+      "catagory": "JavaScript",
       "img": "https://i.ibb.co/WKRSq99/Screenshot-2533.jpg",
       "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
       "details": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
@@ -40,8 +45,8 @@
     },
 
     {
-      "":"6",
-      "catagory": "Web Development",
+      "id":"6",
+      "catagory": "web developer",
       "img": "https://i.ibb.co/swY0LXt/Screenshot-253234.jpg",
       "title": "The Ultimate 2022 Fullstack Web Development Bootcamp",
       "details": "Become a fullstack web developer (and get a job) by taking this ONE course, even if you've never coded before.",
